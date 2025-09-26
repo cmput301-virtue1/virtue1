@@ -1,4 +1,4 @@
-package com.example.virtue1; 
+package com.example.virtue1;
 
 public class Rectangle extends Shape {
 
